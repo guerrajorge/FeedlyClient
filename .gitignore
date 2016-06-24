@@ -36,4 +36,4 @@ nosetests.xml
 .pydevproject
 
 # info
-access_information
+access_information.py
